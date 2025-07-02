@@ -1,0 +1,13 @@
+receptor=djc15.pdbqt
+
+center_x = 18.25
+center_y = 31.36
+center_z = 26.06
+size_x = 48
+size_y = 50
+size_z = 38
+
+num_modes = 4
+energy_range = 2
+exhaustiveness = 32
+cpu = 32
