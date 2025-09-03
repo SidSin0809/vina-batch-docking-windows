@@ -36,3 +36,4 @@ ligand_out.pdbqt – docked poses
 
 ligand.log – affinity in kcal·mol⁻¹
 
+[![DOI](https://zenodo.org/badge/1012696972.svg)](https://doi.org/10.5281/zenodo.17038500)
